@@ -32,7 +32,7 @@ I'm **Full Stack Software Engineer** from India.
 
 - :zap: In my free time, I read books and watch movies. 
 
-- :telescope: Education : **B.Tech** from **NIT** Surat (2019 - 23), **Rajkot,Gujarat
+- :telescope: Education : **B.Tech** from **NIT** Surat (2019 - 23), **Pune,Maharashtra
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-vyas-10b1871b4/)
 - ![Leetcode Stats](https://leetcard.jacoblin.cool/amanvyas22/)
