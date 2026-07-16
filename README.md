@@ -1,64 +1,155 @@
 <div id="header" align="center">
-  
-  ### 👋 Hey visitor, I’m Aman Vyas
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# 👋 Hi, I'm Aman Vyas
+
+### Backend Engineer • Forward Deployed Engineer • Distributed Systems
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 </div>
 
-<div id="badges" align="center">
-  
-  <a href="https://www.linkedin.com/in/aman-vyas-10b1871b4/">
-    <img src="https://img.shields.io/badge/-Aman-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge width="80" height="30""/>
-  </a>
+<div align="center">
 
-  
+<a href="https://www.linkedin.com/in/aman-vyas-10b1871b4/">
+<img src="https://img.shields.io/badge/LinkedIn-Aman%20Vyas-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <img src="https://komarev.com/ghpvc/?username=amanavvk&style=flat-square&color=blue" alt="" width="150" height="30"/>
+<a href="https://github.com/amanavvk">
+<img src="https://img.shields.io/badge/GitHub-amanavvk-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/aman2-cloud/">
+<img src="https://img.shields.io/badge/LeetCode-aman2--cloud-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=amanavvk&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-### :technologist: About Me
+# 🚀 About Me
 
-I'm **Full Stack Software Engineer** from India.
+I'm a **Backend Engineer** and **Forward Deployed Engineer** passionate about building distributed systems, high-scale backend platforms, and AI-powered applications.
 
-- :telescope: I’m developing autonomous software systems. 
+Currently building **fintech infrastructure** focused on merchant payroll, settlements, payment orchestration, and event-driven microservices.
 
-- :zap: Interested in vision, manipulation and navigation software systems
+### What I work on
 
-- :seedling: Developing skills as Full stack engineer ( Software)
+- ⚙️ Distributed Systems
+- ☕ Java & Spring Boot
+- 🚀 Event-Driven Microservices
+- 📦 Apache Kafka
+- ☁️ Kubernetes & Docker
+- 🗄️ PostgreSQL & Redis
+- 🤖 AI-powered Backend Services
+- 💳 FinTech Infrastructure
+- 🌍 Production Deployments
+- 🔥 Forward Deployed Engineering
 
-- :zap: In my free time, I read books and watch movies. 
+---
 
-- :telescope: Education : **B.Tech** from **NIT** Surat (2019 - 23), **Pune,Maharashtra
+# 💼 Experience
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-vyas-10b1871b4/)
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/amanvyas22/)
+### Software Development Engineer II • BARQ
 
-### :hammer_and_wrench: Languages and Tools :
+- Building large-scale fintech backend systems
+- Merchant settlements & payment orchestration
+- Spring Boot microservices
+- Kafka event pipelines
+- Kubernetes deployments
+- Core banking integrations
 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="100" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" title="SolidWorks" alt="SolidWorks" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
-</div>
+### Senior Software Engineer • John Deere
 
-<!-- 
-### :fire: My Stats :
+- Built AI-enabled backend systems delivering **$2.5M annual savings**
+- Developed distributed microservices
+- Integrated NLP models into production
+- Optimized APIs by **20%**
+- Designed cloud-native backend services
 
-![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavikmk&theme=vision-friendly-dark&show_icons=true) 
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhavikmk&theme=dark&background=000000)](https://git.io/streak-stats) 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikmk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+# 🛠 Tech Stack
+
+### Languages
+
+Java • C++ • Python • TypeScript • JavaScript • SQL
+
+### Backend
+
+Spring Boot • Quarkus • Hibernate • REST APIs • GraphQL • Node.js
+
+### Distributed Systems
+
+Apache Kafka • Debezium CDC • Event-Driven Architecture • Distributed Transactions • Microservices
+
+### Cloud & DevOps
+
+Docker • Kubernetes • AWS • Jenkins • Git • CI/CD
+
+### Databases
+
+PostgreSQL • Redis • MongoDB • Neo4j
+
+### AI
+
+LLMs • BERT • BART • Intelligent Automation • MLOps
+
+---
+
+# ⭐ Featured Projects
+
+## 🔹 SyncForge
+
+Distributed Transaction Platform
+
+- Transactional Outbox Pattern
+- Apache Kafka
+- Debezium CDC
+- Event Deduplication
+- 99.99% Event Reliability
+
+---
+
+## 🔹 FinPilot AI
+
+AI-powered Payment Intelligence Platform
+
+- Event-driven payment processing
+- Merchant settlements
+- Fraud detection
+- Graph Neural Networks
+- Real-time risk scoring
+
+---
+
+# 🏆 Awards
+
+🥇 Budding Talent of the Year — John Deere
+
+🏅 Distinguished Performance Rating — John Deere
+
+🚀 INNOYOU Innovation Award
+
+💡 Patent Idea Recognition
+
+---
+
+# 📈 Coding Profiles
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aman2-cloud)](https://leetcode.com/u/aman2-cloud/)
+
+---
+
+# 📫 Connect with Me
+
+📧 **amanvyas055@gmail.com**
+
+🔗 LinkedIn
+https://www.linkedin.com/in/aman-vyas-10b1871b4/
+
+💻 GitHub
+https://github.com/amanavvk
